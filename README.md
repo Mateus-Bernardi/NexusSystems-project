@@ -11,6 +11,8 @@ O **Nexus Systems** é um sistema de gestão de desktop robusto, desenvolvido em
 
 Construído sobre os pilares da **Programação Orientada a Objetos (POO)** e do padrão arquitetural **Data Access Object (DAO)**, o sistema se destaca pela modularidade, manutenibilidade e pela implementação de práticas de desenvolvimento seguras.
 
+Este é um projeto de código aberto desenvolvido para fins de aprendizagem e prática. O objetivo principal foi aplicar e aprofundar conhecimentos em desenvolvimento de software com Java, modelagem de banco de dados com MySQL e implementação de padrões de arquitetura como o DAO.
+
 ## Índice
 
 - [Visão Geral](#visão-geral)
